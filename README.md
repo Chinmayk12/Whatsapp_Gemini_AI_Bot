@@ -1,2 +1,2 @@
 
-### Gemini Integration with Whatsapp###
+### Gemini Integration with Whatsapp ###
